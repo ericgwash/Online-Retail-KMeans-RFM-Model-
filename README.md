@@ -5,7 +5,7 @@ The main objective of this project is to understand the customer behavior and pu
 
 The project begins by cleaning the data and removing any cancelled purchases. Outliers are also identified and removed.
 
-Next, principal component analysis (PCA) and K-Means clustering are used to identify customer segments. The number of clusters is determined using the elbow method. The result is visualized using a scatter plot.
+Next, K-Means clustering is used to identify customer segments. The number of clusters is determined using the elbow method. 
 
 RFM analysis is also performed to identify the most valuable customers. The RFM score is used to segment customers into different groups and a bar chart is used to visualize the result.
 
